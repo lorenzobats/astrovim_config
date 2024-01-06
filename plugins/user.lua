@@ -1,5 +1,7 @@
 return {
-  "rebelot/kanagawa.nvim",
-  "ThePrimeagen/harpoon",
+    {
+      "rebelot/kanagawa.nvim",
+    }
 }
+
 
